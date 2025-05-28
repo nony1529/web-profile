@@ -218,23 +218,23 @@ span{
 @keyframes words{
   0%,
   20%{
-    content: "Student";
+    content: "Brainware";
   }
   21%,
   40%{
-    content: "Designer";
+    content: " Junior Graphic Designer";
   }
   41%,
   60%{
-    content: "UI / UX Designer";
+    content: "Novice Programmer";
   }
   61%,
   80%{
-    content: "Content Manager";
+    content: "Junior Graphic Designer";
   }
   81%,
   100%{
-    content: "Software Tester";
+    content: "Novice Programmer";
   }
 }
 
@@ -364,7 +364,7 @@ span{
 .service-box{
   background-color: var(--main-color);
   color: black;
-  height: 250px;
+  height: 300px;
   border-radius: 3rem;
   cursor: pointer;
   transition: 0.3s ease-in-out;
@@ -380,21 +380,21 @@ span{
   display: flex;
   flex-direction: column;
   text-align: left;
-  max-height: 200px;
+  max-height: 300px;
   justify-content: center;
   align-items: baseline;
-  padding: 5em;
+  padding: 5rem;
 }
 
 .service-info h4{
-  font-size: 2.5rem;
+  font-size: 4rem;
   font-weight: 500;
   margin-bottom: 1rem;
 }
 
 .services-info p{
-  font-size: 1.6rem;
-  font-weight: 400;
+  font-size: 2rem;
+  font-weight: 400px;
   max-height: 100px;
   margin: auto;
 }

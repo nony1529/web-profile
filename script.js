@@ -20,5 +20,5 @@ window.onscroll = () => {
 }
 menuIcon.onclick = () => {
   menuIcon.classList.toggle('bx-x');
-  navber.classList.toggle('active');
+  navbar.classList.toggle('active');
 }
